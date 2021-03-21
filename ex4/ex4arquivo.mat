@@ -1,0 +1,11 @@
+function ex4arquivo()
+    while true
+        vet = [];
+        x = input("Digite um numero:");
+        if x == 0
+              break;
+        else
+            vet = [vet, x];
+        end
+    end
+end

@@ -1,0 +1,97 @@
+# Created by Octave 5.2.0, Thu Nov 12 18:42:37 2020 -03 <ericles@ericles-G3-3590>
+# name: vet
+# type: matrix
+# rows: 1
+# columns: 4
+ 1 2 3 4
+
+
+# name: a
+# type: scalar
+4
+
+
+# name: vet
+# type: matrix
+# rows: 1
+# columns: 4
+ 1 2 3 4
+
+
+# name: a
+# type: scalar
+4
+
+
+# name: vet
+# type: matrix
+# rows: 1
+# columns: 4
+ 1 2 3 4
+
+
+# name: a
+# type: scalar
+5
+
+
+# name: vet
+# type: matrix
+# rows: 1
+# columns: 4
+ 1 2 3 4
+
+
+# name: a
+# type: scalar
+5
+
+
+# name: vet
+# type: matrix
+# rows: 1
+# columns: 4
+ 1 2 3 4
+
+
+# name: a
+# type: scalar
+5
+
+
+# name: vet
+# type: matrix
+# rows: 1
+# columns: 4
+ 1 2 3 4
+
+
+# name: a
+# type: scalar
+5
+
+
+# name: vet
+# type: matrix
+# rows: 1
+# columns: 5
+ 1 2 3 4 5
+
+
+# name: a
+# type: scalar
+4
+
+
+# name: vet
+# type: matrix
+# rows: 1
+# columns: 6
+ 1 2 3 4 5 5
+
+
+# name: a
+# type: scalar
+5
+
+
